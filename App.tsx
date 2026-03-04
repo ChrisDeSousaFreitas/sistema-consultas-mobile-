@@ -162,7 +162,7 @@ export default function App() {
 const styles = StyleSheet.create({
   container: {
     flex: 1,
-    backgroundColor: "#79059C",
+    backgroundColor: "#ee592b",
   },
   scrollContent: {
     padding: 20,
@@ -202,13 +202,13 @@ const styles = StyleSheet.create({
     marginBottom: 20,
   },
   statusConfirmada: {
-    backgroundColor: "#4CAF50",
+    backgroundColor: "rgb(0, 173, 29)",
   },
   statusCancelada: {
     backgroundColor: "#F44336",
   },
   statusTexto: {
-    color: "#fff",
+    color: "#201e1e",
     fontWeight: "bold",
     fontSize: 12,
   },
@@ -221,7 +221,7 @@ const styles = StyleSheet.create({
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "#79059C",
+    color: "#2371df",
     marginBottom: 8,
   },
   valor: {
@@ -251,7 +251,7 @@ const styles = StyleSheet.create({
     padding: 16,
     borderRadius: 8,
     borderLeftWidth: 4,
-    borderLeftColor: "#4CAF50",
+    borderLeftColor: "rgb(0, 173, 29)",
   },
   mensagemCancelada: {
     backgroundColor: "#FFEBEE",
