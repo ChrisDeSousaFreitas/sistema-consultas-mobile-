@@ -38,7 +38,7 @@ export const styles = StyleSheet.create({
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "#79059C",
+    color: "rgb(80, 215, 246)",
     marginBottom: 8,
   },
   valor: {
