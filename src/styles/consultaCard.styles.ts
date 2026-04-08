@@ -1,4 +1,5 @@
 import { StyleSheet } from "react-native";
+
 export const styles = StyleSheet.create({
   card: {
     backgroundColor: "#fff",
@@ -38,7 +39,7 @@ export const styles = StyleSheet.create({
   label: {
     fontSize: 16,
     fontWeight: "bold",
-    color: "rgb(80, 215, 246)",
+    color: "#79059C",
     marginBottom: 8,
   },
   valor: {
