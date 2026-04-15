@@ -27,6 +27,13 @@ const styles = StyleSheet.create({
     color: colors.card,
     fontWeight: "bold",
   },
+<<<<<<< HEAD
+=======
+  subtitulo: {
+    fontSize: 14,
+    color: "#666",
+  },
+>>>>>>> 7c40322756b5d1b21e1c10b2e223322620f2cd70
 });
 
 export default styles;
