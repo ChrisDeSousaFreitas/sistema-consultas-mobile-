@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const styles = StyleSheet.create({
+const styles = StyleSheet.create({
   container: { flex: 1, backgroundColor: "#f5f5f5" },
   scrollContent: { padding: 20 },
   header: { marginBottom: 32, alignItems: "center" },

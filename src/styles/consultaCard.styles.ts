@@ -1,6 +1,6 @@
 import { StyleSheet } from "react-native";
 
-export const styles = StyleSheet.create({
+const styles = StyleSheet.create({
   card: {
     backgroundColor: "#fff",
     borderRadius: 16,
@@ -85,3 +85,5 @@ export const styles = StyleSheet.create({
     textAlign: "center",
   },
 });
+
+export default styles;
