@@ -7,15 +7,15 @@ Sistema de Consultas Mobile (React Native + TypeScript)
 ## Identificação
 
 **Integrante 1:**
-Nome: [Seu Nome Aqui]
-RM: [Seu RM Aqui]
+Nome: [Christian de Sousa Freitas]
+RM: [566098]
 
 **Integrante 2:**
-Nome: [Nome do Integrante 2]
-RM: [RM do Integrante 2]
+Nome: [Rodrigo Tiezzi]
+RM: [562975]
 
-Turma: [Sua Turma]
-Disciplina: [Nome da disciplina]
+Turma: [2TDSPO]
+Disciplina: [Mobile Application]
 Projeto: Sistema de Consultas Mobile
 
 ---
